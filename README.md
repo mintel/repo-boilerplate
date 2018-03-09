@@ -1,5 +1,7 @@
 # Project Title
 
+Lots of [cool badges](http://shields.io/) go here.
+
 One Paragraph of project description goes here
 
 ## Getting Started
